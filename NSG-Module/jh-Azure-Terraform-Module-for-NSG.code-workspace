@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../ahaider/Code/Code/jh-Azure-Terraform-Module-for-NSG"
+		},
+		{
+			"path": "../../../../../../../ahaider/Code/Code/SecurityGroups/JH-Azure-Terraform-Module-for-ASG"
+		},
+		{
+			"path": "../../../simple-windows-vm"
+		},
+		{
+			"path": "../../../another simple-windows-vm"
+		},
+		{
+			"path": "../../../simple-windows-vm-nsg"
+		},
+		{
+			"path": "../../../another simple-windows-vm-ASG"
+		},
+		{
+			"path": "../../JH-Azure-Terraform-Module-for-ASG"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Create-Resources groups"
+		},
+		{
+			"path": "../../Test-NSG-Creation"
+		}
+	],
+	"settings": {}
+}

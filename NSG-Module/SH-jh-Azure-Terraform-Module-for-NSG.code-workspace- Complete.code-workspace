@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../ahaider/Code/Code/jh-Azure-Terraform-Module-for-NSG"
+		},
+		{
+			"path": "../../../../../../../ahaider/Code/Code/SecurityGroups/JH-Azure-Terraform-Module-for-ASG"
+		},
+		{
+			"path": "../../../simple-windows-vm"
+		},
+		{
+			"path": "../../../another simple-windows-vm"
+		},
+		{
+			"path": "../../../simple-windows-vm-nsg"
+		},
+		{
+			"path": "../../../another simple-windows-vm-ASG"
+		},
+		{
+			"path": "../../JH-Azure-Terraform-Module-for-ASG"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Test-NSG-Creation"
+		},
+		{
+			"path": "../../SH-rebuild-VM-JHLHD-main"
+		},
+		{
+			"path": "../../4-SH-Create-Log-Analytics"
+		},
+		{
+			"path": "../../../_Working/SH-azure-foundation-services-he-HNELHD-master"
+		},
+		{
+			"path": "../../../_Working/eHealth/Full-VM-azure-foundation-services-he-SWSLHD-master"
+		}
+	],
+	"settings": {}
+}
